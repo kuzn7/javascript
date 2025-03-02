@@ -1,4 +1,4 @@
-module.exports = { //1
+module.exports = { //2
   extends: [
     'eslint-config-airbnb-base',
     './rules/react',
